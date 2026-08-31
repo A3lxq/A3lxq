@@ -25,7 +25,7 @@ Building Agentic AI operation system for SOC teams — multi-agent incident tria
 
 `AI Agents` `LLM` `RAG` `Automation` `SOC` `Knowledge Systems` `Python`
 
-🔗 **Explore my repositories:** [View Project](https://github.com/A3lxq/Cavendex.git)
+🔗 **Repository:** [View Project](https://github.com/A3lxq/Cavendex.git)
 
 ---
 
@@ -53,7 +53,7 @@ The project explores:
 
 `RAG` `MCP` `LLM` `Obsidian` `Git` `AI Agents`
 
-🔗 **Explore my repositories:** [View Project](https://github.com/A3lxq/AI_BRAIN.git) 
+🔗 **Repository:** [View Project](https://github.com/A3lxq/AI_BRAIN.git) 
 
 ---
 
