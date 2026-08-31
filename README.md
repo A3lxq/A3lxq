@@ -25,7 +25,7 @@ Building AI-powered systems that combine automation, knowledge retrieval, agent 
 
 `AI Agents` `LLM` `RAG` `Automation` `MCP` `Knowledge Systems` `Python`
 
-🔗 **Explore my repositories:** [GitHub](https://github.com/A3lxq/AI_BRAIN.git)
+🔗 **Explore my repositories:** [GitHub](https://github.com/A3lxq/Cavendex.git)
 
 ---
 
@@ -53,6 +53,7 @@ The project explores:
 
 `RAG` `MCP` `LLM` `Obsidian` `Git` `AI Agents`
 
+🔗 **Explore my repositories:** [GitHub](https://github.com/A3lxq/AI_BRAIN.git)
 ---
 
 ## 🔐 Cybersecurity Research & Security Automation
