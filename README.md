@@ -17,13 +17,13 @@ A security-focused project designed around practical cybersecurity workflows, se
 
 ---
 
-## 🤖 AI & Intelligent Automation Systems
+## 🤖 CavendeX - SOC & Intelligence Automation Systems
 
-Building AI-powered systems that combine automation, knowledge retrieval, agent workflows, and developer tooling.
+Building Agentic AI operation system for SOC teams — multi-agent incident triage, investigation, and response with a mandatory human approval gate
 
 **Focus Areas:**
 
-`AI Agents` `LLM` `RAG` `Automation` `MCP` `Knowledge Systems` `Python`
+`AI Agents` `LLM` `RAG` `Automation` `SOC` `Knowledge Systems` `Python`
 
 🔗 **Explore my repositories:** [View Project](https://github.com/A3lxq/Cavendex.git)
 
@@ -79,7 +79,7 @@ Areas explored include:
 
 **Focus Areas:**
 
-`OWASP` `Web Security` `Networking` `Linux` `Security Testing`
+`OWASP` `Web Security` `Networking` `Linux` `Security Testing` 
 
 ---
 
