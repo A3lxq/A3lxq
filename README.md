@@ -13,7 +13,7 @@ A security-focused project designed around practical cybersecurity workflows, se
 
 `Cybersecurity` `Security Automation` `Python` `Linux` `Vulnerability Research` `AI`
 
-🔗 **Repository:** [View Project](https://github.com/A3lxq)
+🔗 **Repository:** [View Project](https://github.com/A3lxq/AEGISX-v3.3.0.git)
 
 ---
 
@@ -25,7 +25,7 @@ Building AI-powered systems that combine automation, knowledge retrieval, agent 
 
 `AI Agents` `LLM` `RAG` `Automation` `MCP` `Knowledge Systems` `Python`
 
-🔗 **Explore my repositories:** [GitHub](https://github.com/A3lxq)
+🔗 **Explore my repositories:** [GitHub](https://github.com/A3lxq/AI_BRAIN.git)
 
 ---
 
