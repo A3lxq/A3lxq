@@ -29,7 +29,7 @@ Building Agentic AI operation system for SOC teams — multi-agent incident tria
 
 ---
 
-## 🧠 AI Knowledge & Retrieval System
+## 🧠 ATHENA AI Knowledge & Retrieval System
 
 An experimental intelligent knowledge architecture designed to connect structured technical knowledge with AI systems.
 
